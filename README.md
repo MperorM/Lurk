@@ -5,7 +5,7 @@ Blocks your ability to post Reddit comments and replies
 
 if using firefox:
 
-https://addons.mozilla.org/redditlurk
+https://addons.mozilla.org/en-US/firefox/addon/redditlurk/
 
 if using any other browser:
 
