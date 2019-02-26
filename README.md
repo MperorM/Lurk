@@ -9,4 +9,4 @@ https://addons.mozilla.org/en-US/firefox/addon/redditlurk/
 
 if using any other browser:
 
-pull it, port it, push it :)
+fork it, port it, share it :)
